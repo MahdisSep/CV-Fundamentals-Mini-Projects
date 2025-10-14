@@ -22,14 +22,6 @@ You can install the dependencies using pip:
 pip install opencv-python numpy
 ````
 
-## 🖼️ Examples
-
-| Project | Input Image | Output Example |
-| :--- | :--- | :--- |
-| **Tic-Tac-Toe** |  | *Result: "X Wins"* |
-| **Calculate Area** |  | *Output: A dictionary of color areas (e.g., {'red': 21300, 'green': 15496, ...})* |
-| **Skin Detection** |  |  |
-
 ## 💡 How to Run
 
 To run any of the scripts, you can call the main function with an image path.
