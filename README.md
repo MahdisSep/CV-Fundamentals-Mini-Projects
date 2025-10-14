@@ -34,19 +34,4 @@ pip install opencv-python numpy
 
 To run any of the scripts, you can call the main function with an image path.
 
-### Example for `calculate_area.py`:
-
-```python
-import cv2
-from calculate_area import calculate_area
-
-img_path = 'path/to/your/image.png'
-image = cv2.imread(img_path)
-
-if image is not None:
-    areas = calculate_area(image)
-    print(areas)
-else:
-    print("Error: Could not load image.")
-```
 
