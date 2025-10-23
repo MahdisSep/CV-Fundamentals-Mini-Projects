@@ -28,7 +28,6 @@ pip install opencv-python numpy
 ![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/detect%20skin/initial2/initial/skin%20Detected/image_one.png)
 ![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/detect%20skin/initial2/initial/skin%20Detected/image_three.png)
 ![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/tic_tac_toe/initial/Data/O%20Wins.png)
-![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/tic_tac_toe/initial/Data/Ongoing.png)
 ![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/tic_tac_toe/initial/Data/X%20Wins.png)
 
 
