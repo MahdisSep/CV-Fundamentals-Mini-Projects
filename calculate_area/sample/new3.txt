@@ -1,0 +1,6 @@
+red, 11200
+green, 27600
+blue, 14400
+yellow, 8800
+purple, 576
+gray, 9900

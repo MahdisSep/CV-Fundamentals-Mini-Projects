@@ -1,0 +1,6 @@
+red, 21300
+green, 15496
+blue, 11876
+yellow, 37080
+purple, 36576
+gray, 8400

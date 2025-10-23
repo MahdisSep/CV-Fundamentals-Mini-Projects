@@ -22,6 +22,15 @@ You can install the dependencies using pip:
 pip install opencv-python numpy
 ````
 
+### showcase
+
+![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results1.png)
+![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
+![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
+![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
+
+-----
+
 ## 💡 How to Run
 
 To run any of the scripts, you can call the main function with an image path.
