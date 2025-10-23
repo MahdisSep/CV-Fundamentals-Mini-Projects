@@ -24,10 +24,10 @@ pip install opencv-python numpy
 
 ### showcase
 
-![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results1.png)
-![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
-![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
-![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
+![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/calculate_area/chale.png)
+![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/detect%20skin/initial2/initial/skin%20Detected/image_one.png)
+![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/detect%20skin/initial2/initial/skin%20Detected/image_three.png)
+![images](https://github.com/MahdisSep/CV-Fundamentals-Mini-Projects/blob/main/tic_tac_toe/initial/Data/O%20Wins.png)
 
 -----
 
